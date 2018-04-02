@@ -1,2 +1,2 @@
-# demo-demo1
-cloud demo in this repo....!
+# Handwritten-Digit-Recognition
+Using Flask and convolution neural network 
